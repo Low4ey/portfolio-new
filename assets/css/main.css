@@ -1137,7 +1137,9 @@ button {
 
 
 .service-icon img {
-    width: 40px;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
 }
 
 .service-text {
@@ -1183,7 +1185,7 @@ button {
 }
 
 .client-icon img {
-    width: 100%;
+    width: 70%;
 }
 
 /* ==========================================================================
